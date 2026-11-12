@@ -1,0 +1,17 @@
+circuit,simulator,job_id,status,qubits,native_1q,native_2q,metric,value,stderr,plug_in
+sim-teleport-pack9,ideal,01a1c1b7-a9d0-745d-9a91-0000b129f9b1,completed,27,72,36,success probability,1.0,0.0,
+sim-teleport-pack9,forte-1,01a1c1b7-ac90-7606-85ce-31412a2bcb46,completed,27,72,36,success probability,0.9643,0.0034,
+sim-remote-cnot-pack7,ideal,01a1c1b7-af3a-72fe-8e64-299f31c50aca,completed,28,73,35,success probability,1.0,0.0,
+sim-remote-cnot-pack7,forte-1,01a1c1b7-b1cb-7629-a90d-9c3f05cbe50c,completed,28,73,35,success probability,0.9518,0.0034,
+qft6-monolithic-x11,ideal,01a1c1b7-b4aa-7268-858b-ea2ebd738fb9,completed,6,11,15,Hellinger fidelity (bias-corrected),1.0,0.0,1.0
+qft6-monolithic-x11,forte-1,01a1c1b7-b796-77ca-95f2-ab62f1ed123b,completed,6,11,15,Hellinger fidelity (bias-corrected),0.8089,0.0121,0.809
+qft6-2qpu-static-x11,ideal,01a1c1b7-ba35-71f6-b8c8-7dccc7818352,completed,24,77,51,Hellinger fidelity (bias-corrected),1.0,0.0,1.0
+qft6-2qpu-static-x11,forte-1,01a1c1b7-bcfd-75e8-89e4-3305b505617b,completed,24,77,51,Hellinger fidelity (bias-corrected),0.5741,0.0155,0.574
+qft6-2qpu-migrate-x11,ideal,01a1c1b7-bffb-71a6-bedf-49eaa1d47502,completed,20,63,43,Hellinger fidelity (bias-corrected),1.0,0.0,1.0
+qft6-2qpu-migrate-x11,forte-1,01a1c1b7-c278-73e4-994c-8330cc6cb0b6,completed,20,63,43,Hellinger fidelity (bias-corrected),0.63,0.0153,0.63
+tfim6-monolithic-h1.0,ideal,01a1c1b7-c557-721f-820a-18153e9e3daa,completed,6,48,20,Hellinger fidelity (bias-corrected),0.9936,0.0047,0.9797
+tfim6-monolithic-h1.0,forte-1,01a1c1b7-c82d-72be-845e-630737b536fe,completed,6,48,20,Hellinger fidelity (bias-corrected),0.9676,0.0074,0.9527
+tfim6-2qpu-static-h1.0,ideal,01a1c1b7-cac2-742e-bf47-06fff9cb4a65,completed,14,83,36,Hellinger fidelity (bias-corrected),0.9949,0.0054,0.9795
+tfim6-2qpu-static-h1.0,forte-1,01a1c1b7-cdaa-727f-99ae-f92a3a2cdd1d,completed,14,83,36,Hellinger fidelity (bias-corrected),0.9407,0.0086,0.927
+tfim6-2qpu-migrate-h1.0,ideal,01a1c1b7-d06a-70cf-8758-c24871751c44,completed,16,89,40,Hellinger fidelity (bias-corrected),0.9912,0.0048,0.9768
+tfim6-2qpu-migrate-h1.0,forte-1,01a1c1b7-d33e-7135-8939-3635854abb5c,completed,16,89,40,Hellinger fidelity (bias-corrected),0.9416,0.0084,0.929

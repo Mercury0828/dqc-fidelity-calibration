@@ -1,0 +1,4 @@
+qiskit==2.5.1
+qiskit-aer==0.17.2
+qiskit-ionq==1.1.1
+numpy==2.2.6

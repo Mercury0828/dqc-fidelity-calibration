@@ -1,0 +1,18 @@
+{
+ "sim-teleport-pack9|ideal": "01a1c1b7-a9d0-745d-9a91-0000b129f9b1",
+ "sim-teleport-pack9|forte-1": "01a1c1b7-ac90-7606-85ce-31412a2bcb46",
+ "sim-remote-cnot-pack7|ideal": "01a1c1b7-af3a-72fe-8e64-299f31c50aca",
+ "sim-remote-cnot-pack7|forte-1": "01a1c1b7-b1cb-7629-a90d-9c3f05cbe50c",
+ "qft6-monolithic-x11|ideal": "01a1c1b7-b4aa-7268-858b-ea2ebd738fb9",
+ "qft6-monolithic-x11|forte-1": "01a1c1b7-b796-77ca-95f2-ab62f1ed123b",
+ "qft6-2qpu-static-x11|ideal": "01a1c1b7-ba35-71f6-b8c8-7dccc7818352",
+ "qft6-2qpu-static-x11|forte-1": "01a1c1b7-bcfd-75e8-89e4-3305b505617b",
+ "qft6-2qpu-migrate-x11|ideal": "01a1c1b7-bffb-71a6-bedf-49eaa1d47502",
+ "qft6-2qpu-migrate-x11|forte-1": "01a1c1b7-c278-73e4-994c-8330cc6cb0b6",
+ "tfim6-monolithic-h1.0|ideal": "01a1c1b7-c557-721f-820a-18153e9e3daa",
+ "tfim6-monolithic-h1.0|forte-1": "01a1c1b7-c82d-72be-845e-630737b536fe",
+ "tfim6-2qpu-static-h1.0|ideal": "01a1c1b7-cac2-742e-bf47-06fff9cb4a65",
+ "tfim6-2qpu-static-h1.0|forte-1": "01a1c1b7-cdaa-727f-99ae-f92a3a2cdd1d",
+ "tfim6-2qpu-migrate-h1.0|ideal": "01a1c1b7-d06a-70cf-8758-c24871751c44",
+ "tfim6-2qpu-migrate-h1.0|forte-1": "01a1c1b7-d33e-7135-8939-3635854abb5c"
+}
